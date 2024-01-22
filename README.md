@@ -2,16 +2,16 @@
 
 **A Course Requirement for the Subject Data Science and Artificial Intelligence**
 
-Submitted by: 
+**Submitted by:** 
 *T4A - Group 3*
 - Arellano, Aldrich E.
 - Coronel, Ericka May B.
 - Fadol, Noelle Joshua N.
 - Mendoza, Joshua Jericho L.
 
-Submitted to: Labastilla, Aisa M.
+**Submitted to:** Labastilla, Aisa M.
 
-Date: January 23, 2024
+**Date:** January 23, 2024
 
 ## I.	Introduction / Problem Statement
 In the intricate web of the Philippine socio-economic landscape, the persistent challenge of poverty poses an obstacle, hindering the nation's path to comprehensive development. Despite commendable economic growth, poverty endures, characterized by low income, constrained employment opportunities, and limited access to essential services. 
