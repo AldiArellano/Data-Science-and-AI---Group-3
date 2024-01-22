@@ -68,14 +68,13 @@ According to the Preliminary Results of the Family Income and Expenditure Survey
   <em>Figure 1. Poverty and Subsistence Incidence Among Population, Philippines: Full Year 2015, 2018, and 2021 [19]</em><br>
 </p>
 
-
 According to the most recent official data released by the Philippine Statistics Authority (PSA), a greater number of Filipinos find themselves in impoverished conditions today compared to 2018. The PSA, drawing on its Family Income and Expenditure Survey, reported that 19.99 million individuals, constituting 18.1 percent of the population, are living below the poverty threshold. In 2018, the count stood at 17.67 million impoverished Filipinos. Concurrently, there has been a rise of 1.01 million in the number of individuals categorized as "food-poor." Additionally, the PSA highlighted a 7.8 percent unemployment rate, translating to 3.71 million Filipinos currently without employment [[19]](https://psa.gov.ph/content/proportion-poor-filipinos-was-recorded-181-percent-2021).
 
 It is worth noting that the poverty scenario may be even more severe, given that the PSA conducted its survey in 2021, and some experts consider its poverty threshold unrealistic. As per the Philippine government's perspective, an individual from a family of five members is deemed to require only $1.41 per day, when converted into U.S. dollars, to sustain themselves and fulfill their daily nutritional needs [[20]](https://thediplomat.com/2022/09/making-sense-of-the-philippines-latest-poverty-statistics/). To have a better grasp of the poverty in the country, presented in Figure 2 is the trend of the poverty rate in the Philippines compared to the world poverty rate.
 <p align="center">
   <img src="Images/RRL2122.png">
   <br>
-  <em>Figure 1. Poverty and Subsistence Incidence Among Population, Philippines: Full Year 2015, 2018, and 2021 [19]</em><br>
+  <em>Figure 2. Poverty and Subsistence Incidence Among Population, Philippines: Full Year 2015, 2018, and 2021 [21][22]</em><br>
 </p>
 
 ## III.	Gathered Data / Dataset 
