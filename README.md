@@ -41,9 +41,11 @@ Within this dataset, economic indicators encompass a range of variables such as 
 The dataset is a small-sized tabular dataset, having 11 columns and 17 rows, wherein the types of variables include both numerical values in decimals (e.g., average wages, income figures) and categorical values in strings (e.g., region descriptions). The provided dataset has 11 columns to represent information for different regions in the Philippines. The row of the dataset corresponds to each of the regions in the country excluding National Capital Region; hence, giving a total of 16 rows. These include Autonomous Region in Muslim Mindanao (ARMM), Bicol Region, Cagayan Valley, CALABARZON, Cordillera Administrative Region (CAR), Caraga, Central Luzon, Central Visayas, Davao Region, Eastern Visayas, Ilocos Region, MIMAROPA, Northern Mindanao, SOCCSKSARGEN, Western Visayas, and Zamboanga Peninsula. Presented in Figure 2 is the descriptive statistics of the dataset which include the characteristics per category, such as number of not-empty values, mean, standard deviation, minimum value, and maximum value.
 
 <p align="center">
-  <img src="Images/Dataset.png" alt="Figure 1">
+  <img src="Images/DescriptiveStats1.png" alt="Figure 2">
+  <img src="Images/DescriptiveStats2.png" alt="Figure 2">
+  <img src="Images/DescriptiveStats3.png" alt="Figure 2">
   <br>
-  <em>Figure 1. Dataset</em>
+  <em>Figure 2. Descriptive statistics of the dataset</em>
 </p>
 
 *Link of the Dataset:* [Dataset - A few poverty indicators for philippines by region](https://www.kaggle.com/datasets/statchaitya/a-few-poverty-indicators-for-philippines-by-region/data )
