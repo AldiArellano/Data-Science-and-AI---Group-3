@@ -34,22 +34,46 @@ Within this dataset, economic indicators encompass a range of variables such as 
     
 The dataset is a small-sized tabular dataset, having 11 columns and 17 rows, wherein the types of variables include both numerical values in decimals (e.g., average wages, income figures) and categorical values in strings (e.g., region descriptions). The provided dataset has 11 columns to represent information for different regions in the Philippines. The row of the dataset corresponds to each of the regions in the country excluding National Capital Region; hence, giving a total of 16 rows. These include Autonomous Region in Muslim Mindanao (ARMM), Bicol Region, Cagayan Valley, CALABARZON, Cordillera Administrative Region (CAR), Caraga, Central Luzon, Central Visayas, Davao Region, Eastern Visayas, Ilocos Region, MIMAROPA, Northern Mindanao, SOCCSKSARGEN, Western Visayas, and Zamboanga Peninsula. Presented in Figure 4 is the descriptive statistics of the dataset which include the characteristics per category, such as number of not-empty values, mean, standard deviation, minimum value, and maximum value.
 
-[Link of the Dataset](https://www.kaggle.com/datasets/statchaitya/a-few-poverty-indicators-for-philippines-by-region/data )
+[Dataset - A few poverty indicators for philippines by region](https://www.kaggle.com/datasets/statchaitya/a-few-poverty-indicators-for-philippines-by-region/data )
 
 
 ## III.	Objectives
 The primary objective of the study is to conduct a comprehensive analysis of the dataset containing key poverty indicators for the Philippines by region, leveraging data science methodologies, with the aim of having an overview of the status of poverty in each region. Specifically, this study aims to:
-1.	Explore and preprocess the dataset focusing on variables related to agricultural wages, average incomes, and total employment to ensure data integrity and completeness;
-2.	Conduct correlation analyses to identify relationships between variables, specifically the following:
+1. Explore and preprocess the dataset focusing on variables related to agricultural wages, average incomes, and total employment to ensure data integrity and completeness;
+2. Conduct correlation analyses to identify relationships between variables, specifically the following:
 
-  	  2.1. Agricultural wage rates and farm income
+   2.1. Agricultural wage rates and farm income
 
-  	  2.2. Non-farm income and rural income
+   2.2. Non-farm income and rural income
 
-      2.3. Total employment and total income
-  	
-4. 	Implement a linear regression model to analyze the relationships between the selected and specified variables and evaluate the model's ability to predict the linearity of these variables and assess their respective impacts on overall income for farm households;
-5. 	Employ a Decision Tree Model to classify instances based on the selected variables to reveal categorical relationships and key influencing factors and evaluate the model’s performance for a comprehensive understanding of farm households' income dynamics; and
-6.	Conduct a comparative analysis between the linear regression model and the Decision Tree Model in terms of their effectiveness in analyzing the relationships among variables to identify the strengths and limitations of each model for a more robust interpretation of farm households' income dynamics.
+   2.3. Total employment and total income
+   
+4. Implement a linear regression model to analyze the relationships between the selected and specified variables and evaluate the model's ability to predict the linearity of these variables and assess their respective impacts on overall income for farm households;
+5. Employ a Decision Tree Model to classify instances based on the selected variables to reveal categorical relationships and key influencing factors and evaluate the model’s performance for a comprehensive understanding of farm households' income dynamics; and
+6. Conduct a comparative analysis between the linear regression model and the Decision Tree Model in terms of their effectiveness in analyzing the relationships among variables to identify the strengths and limitations of each model for a more robust interpretation of farm households' income dynamics.
+
+## V.	Conceptual
+The conceptual framework delineates a methodological roadmap for achieving the primary objective of training and evaluating a dataset, focusing on agricultural wages, average incomes, and total employment. It entails a systematic progression through essential stages, including data exploration, cleaning, and feature selection. The subsequent focus on correlation analysis, complemented by the implementation of linear regression and a Decision Tree Model, unravel relationships between variables. Concluding with a comparative analysis, this framework guides a comprehensive understanding of the relationships by evaluating the model’s strengths and limitations in analyzing relationships among variables.
+
+In the pursuit of the main objective of training and evaluating the gathered data, a comprehensive conceptual framework is outlined below:
+
+1.	Data Exploration and Cleaning:
+    -	Conduct an in-depth exploration of the dataset to comprehend its structure, types, and distribution characteristics.
+    -	Address missing values, outliers, and inconsistencies through rigorous data cleaning procedures to ensure data integrity.
+2.	Feature Selection:
+    -	Prioritize relevant columns related to agricultural wages, average incomes, and total employment based on their significance for the analysis.
+    -	Perform a detailed evaluation of each feature, considering statistical measures and domain knowledge to identify and retain influential variables.
+3.	Correlation Analysis:
+    - Conduct a thorough correlation analysis to ascertain relationships between key variables.
+    - Focus on specific correlations, namely agricultural wage rates and farm income, non-farm income and rural income, and total employment and total income.
+4.	Linear Regression Model:
+    - Develop and implement a linear regression model to analyze relationships and assess its predictive ability.
+5.	Decision Tree Model:
+    - Create and utilize a Decision Tree Model for classification and understanding categorical relationships.
+6.	Comparative Analysis:
+    - Compare the performance of the linear regression model and the Decision Tree Model.
+    - Evaluate their strengths and limitations in analyzing relationships among variables.
+
+
 
 
