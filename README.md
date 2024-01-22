@@ -9,7 +9,7 @@ Submitted by:
 - Fadol, Noelle Joshua N.
 - Mendoza, Joshua Jericho L.
 
-Submitted to: Ms. Labastilla, Aisa M.
+Submitted to: Labastilla, Aisa M.
 
 Date: January 23, 2024
 
