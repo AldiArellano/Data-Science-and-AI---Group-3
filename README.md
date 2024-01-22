@@ -62,7 +62,12 @@ The inter-generational transfer of poverty takes center level in research throug
 *Poverty Dynamics in the Philippines*
 
 According to the Preliminary Results of the Family Income and Expenditure Survey (FIES) in 2021, the poverty incidence among the population, defined as the percentage of Filipinos with per capita income insufficient to meet basic food and non-food needs, stood at 18.1 percent. This equates to approximately 19.99 million Filipinos living below the poverty threshold of PhP 12,030 per month for a family of five. The subsistence incidence, representing the proportion of Filipinos with income inadequate for basic food needs, saw a slight increase to 5.9 percent in 2021. It was estimated that a family of five requires at least PhP 8,379 per month to fulfill their basic food requirements). In terms of families, approximately 3.50 million families, or 13.2 percent, were deemed poor in 2021. Conversely, the subsistence incidence among families was noted at 3.9 percent, equivalent to 1.04 million families falling below the food poverty line. Figure 1 shows this poverty and subsistence incidence statistics in the Philippines from 2015-2018 [[19]](https://psa.gov.ph/content/proportion-poor-filipinos-was-recorded-181-percent-2021). 
-
+<p align="center">
+  <img src="Images/RRL19.png">
+  <br>
+  <em>Figure 1. Poverty and Subsistence Incidence Among Population, Philippines: Full Year 2015, 2018, and 2021</em><br>
+  <em>Source: [[19]](https://psa.gov.ph/content/proportion-poor-filipinos-was-recorded-181-percent-2021)  </em>
+</p>
 
 ## III.	Gathered Data / Dataset 
 The dataset employed in this project is a comprehensive compilation of economic and agricultural indicators, providing a detailed snapshot of the socio-economic insight across various regions in the Philippines. These indicators encompass a wide array of quantitative measures that capture the dimensions of economic and agricultural activities, shedding light on the characteristics and disparities that exist among different geographic areas within the country.
