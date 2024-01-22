@@ -31,7 +31,7 @@ The review of related literature is a critical component of any research endeavo
 
 *Defining Poverty*
 
-Poverty is a pervasive and complex socio-financial phenomenon that continues to task countries international, affecting tens of millions of people and communities. In modern-day discourse, poverty is generally defined as a multifaceted state or circumstance marked through the insufficient financial sources that restrict individuals, families, and groups from attaining a minimum widespread of living critical for a thriving existence. This deprivation extends beyond earnings constraints, encompassing the incapability to access fundamental requirements including decent housing, clean water, nutritious meals, and critical healthcare. The complexity of poverty is underscored by its correlation with various factors, which include race, sexual identity, sexual orientation, and constrained academic opportunities [[1]](https://www.investopedia.com/terms/p/poverty.asp)
+Poverty is a pervasive and complex socio-financial phenomenon that continues to task countries international, affecting tens of millions of people and communities. In modern-day discourse, poverty is generally defined as a multifaceted state or circumstance marked through the insufficient financial sources that restrict individuals, families, and groups from attaining a minimum widespread of living critical for a thriving existence. This deprivation extends beyond earnings constraints, encompassing the incapability to access fundamental requirements including decent housing, clean water, nutritious meals, and critical healthcare. The complexity of poverty is underscored by its correlation with various factors, which include race, sexual identity, sexual orientation, and constrained academic opportunities [1]
 
 The World Bank Organization describes poverty in this way: “Poverty is hunger. Poverty is lack of shelter. Poverty is being sick and not being able to see a doctor. Poverty is not having access to school and not knowing how to read. Poverty is not having a job, is fear for the future, living one day at a time. Poverty has many faces, changing from place to place and across time, and has been described in many ways.  Most often, poverty is a situation people want to escape. So, poverty is a call to action - for the poor and the wealthy alike - a call to change the world so that many more may have enough to eat, adequate shelter, access to education and health, protection from violence, and a voice in what happens in their communities” [[2]](https://disasterphilanthropy.org/resources/people-experiencing-poverty/).
 
@@ -155,6 +155,6 @@ or you can directly access/view the notebook (.ipynb file) with this link: *[Jup
 
 ## References
 
-[^1]: [Journal Article](https://www.example-journal.com/my-awesome-research) - Doe, J., & Smith, J. (2022). My Awesome Research. *Journal of Amazing Discoveries*.
+[1]: [Journal Article]([https://www.example-journal.com/my-awesome-research](https://www.investopedia.com/terms/p/poverty.asp)) - Doe, J., & Smith, J. (2022). My Awesome Research. *Journal of Amazing Discoveries*.
 
 
