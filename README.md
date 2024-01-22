@@ -48,6 +48,10 @@ The dataset is a small-sized tabular dataset, having 11 columns and 17 rows, whe
   <em>Figure 2. Descriptive statistics of the dataset</em>
 </p>
 
+In terms of the dataset's constraints, it covers only 16 out of the 17 regions in the country, with the National Capital Region (NCR) being the excluded region. Additionally, the dataset contains two missing values, specifically related to the average rural income for the year 2000 in Region IV, encompassing CALABARZON (IV-A) and MIMAROPA (IV-B).
+
+Furthermore, the dataset spans different years for various variables: 2015 for gender-related data, 2002 to 2003 for household income-related data, 2000 for average rural income, and 2016 for total employment. The confined timeframe may impose limitations on the ability to observe long-term trends or assess the repercussions of economic changes over extended periods. Moreover, certain variables, like 'agr_wage_farm_workers_allgender_2015,' present a single-year snapshot, potentially missing dynamic changes that unfold over time. This temporal constraint may hinder a comprehensive understanding of evolving trends and shifts in the variables under consideration.
+
 *Link of the Dataset:* [Dataset - A few poverty indicators for philippines by region](https://www.kaggle.com/datasets/statchaitya/a-few-poverty-indicators-for-philippines-by-region/data )
 
 
