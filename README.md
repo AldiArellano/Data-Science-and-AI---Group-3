@@ -75,6 +75,7 @@ In the pursuit of the main objective of training and evaluating the gathered dat
     - Evaluate their strengths and limitations in analyzing relationships among variables.
 
 ## V.	Program Codes / Google colab / Jupyter notebook or spyder IDE
+You can find the code for this project in the [Code](./code) folder.
 [Jupyter Notebook](Code/CAPSTONE_ECEDATA_Group3.ipynb)
 
 
