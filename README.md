@@ -155,6 +155,6 @@ or you can directly access/view the notebook (.ipynb file) with this link: *[Jup
 
 ## References
 
-[1]: [Journal Article]([https://www.example-journal.com/my-awesome-research](https://www.investopedia.com/terms/p/poverty.asp)) - Doe, J., & Smith, J. (2022). My Awesome Research. *Journal of Amazing Discoveries*.
+[1]: [Journal Article](https://www.investopedia.com/terms/p/poverty.asp) - Doe, J., & Smith, J. (2022). My Awesome Research. *Journal of Amazing Discoveries*.
 
 
