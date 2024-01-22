@@ -52,7 +52,7 @@ The primary objective of the study is to conduct a comprehensive analysis of the
 5. Employ a Decision Tree Model to classify instances based on the selected variables to reveal categorical relationships and key influencing factors and evaluate the model’s performance for a comprehensive understanding of farm households' income dynamics; and
 6. Conduct a comparative analysis between the linear regression model and the Decision Tree Model in terms of their effectiveness in analyzing the relationships among variables to identify the strengths and limitations of each model for a more robust interpretation of farm households' income dynamics.
 
-## V.	Conceptual
+## IV.	Conceptual
 The conceptual framework delineates a methodological roadmap for achieving the primary objective of training and evaluating a dataset, focusing on agricultural wages, average incomes, and total employment. It entails a systematic progression through essential stages, including data exploration, cleaning, and feature selection. The subsequent focus on correlation analysis, complemented by the implementation of linear regression and a Decision Tree Model, unravel relationships between variables. Concluding with a comparative analysis, this framework guides a comprehensive understanding of the relationships by evaluating the model’s strengths and limitations in analyzing relationships among variables.
 
 In the pursuit of the main objective of training and evaluating the gathered data, a comprehensive conceptual framework is outlined below:
@@ -74,6 +74,7 @@ In the pursuit of the main objective of training and evaluating the gathered dat
     - Compare the performance of the linear regression model and the Decision Tree Model.
     - Evaluate their strengths and limitations in analyzing relationships among variables.
 
-
+## V.	Program Codes / Google colab / Jupyter notebook or spyder IDE
+[Jupyter Notebook](Code/CAPSTONE_ECEDATA_Group 3.ipynb)
 
 
