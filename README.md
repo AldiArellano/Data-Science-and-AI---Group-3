@@ -18,3 +18,4 @@ The dataset employed in this project is a comprehensive compilation of economic 
 
 Titled "A Few Poverty Indicators for the Philippines by Region," the dataset has been sourced from Kaggle.com, with the last recorded update dating back to the year 2018. Kaggle is a renowned platform that hosts datasets and facilitates collaborative data science projects. This particular dataset serves as a valuable resource for understanding poverty dynamics in the Philippines, providing insights into various indicators across different regions of the country. The dataset is presented in Figure 3.
 
+
