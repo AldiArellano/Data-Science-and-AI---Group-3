@@ -25,7 +25,10 @@ However, while the rural economy is a wellspring of economic contributions, it a
 
 Income disparities in the rural economy serve as a testament to the pervasive hold of poverty, as a significant portion of the population remains below the national poverty line. Limited stable employment opportunities increase vulnerability, exposing individuals and families to a state of socio-economic instability. With these, a more in-depth analysis of these indicators, including rural income, agricultural wages, non-farm income, and employment, will be undertaken to glean a comprehensive understanding of the factors contributing to the issue of poverty for targeted and effective interventions to address the root causes and foster inclusive progress.
 
-## II.	Gathered Data / Dataset 
+## II. Review of Related Literature
+
+
+## III.	Gathered Data / Dataset 
 The dataset employed in this project is a comprehensive compilation of economic and agricultural indicators, providing a detailed snapshot of the socio-economic insight across various regions in the Philippines. These indicators encompass a wide array of quantitative measures that capture the dimensions of economic and agricultural activities, shedding light on the characteristics and disparities that exist among different geographic areas within the country.
 
 Titled *"A Few Poverty Indicators for the Philippines by Region"*, the dataset has been sourced from Kaggle.com, with the last recorded update dating back to the year 2018. Kaggle is a renowned platform that hosts datasets and facilitates collaborative data science projects. This particular dataset serves as a valuable resource for understanding poverty dynamics in the Philippines, providing insights into various indicators across different regions of the country. The dataset is shown on Figure 1. 
@@ -67,7 +70,7 @@ Furthermore, the dataset spans different years for various variables: 2015 for g
 *Link of the Dataset:* [Dataset - A few poverty indicators for philippines by region](https://www.kaggle.com/datasets/statchaitya/a-few-poverty-indicators-for-philippines-by-region/data )
 
 
-## III.	Objectives
+## IV.	Objectives
 The primary objective of the study is to conduct a comprehensive analysis of the dataset containing key poverty indicators for the Philippines by region, leveraging data science methodologies, with the aim of having an overview of the status of poverty in each region. Specifically, this study aims to:
 1. Explore and preprocess the dataset focusing on variables related to agricultural wages, average incomes, and total employment to ensure data integrity and completeness;
 2. Conduct correlation analyses to identify relationships between variables, specifically the following:
@@ -82,7 +85,7 @@ The primary objective of the study is to conduct a comprehensive analysis of the
 5. Employ a Decision Tree Model to classify instances based on the selected variables to reveal categorical relationships and key influencing factors and evaluate the model’s performance for a comprehensive understanding of farm households' income dynamics; and
 6. Conduct a comparative analysis between the linear regression model and the Decision Tree Model in terms of their effectiveness in analyzing the relationships among variables to identify the strengths and limitations of each model for a more robust interpretation of farm households' income dynamics.
 
-## IV.	Conceptual
+## V.	Conceptual
 The conceptual framework delineates a methodological roadmap for achieving the primary objective of training and evaluating a dataset, focusing on agricultural wages, average incomes, and total employment. It entails a systematic progression through essential stages, including data exploration, cleaning, and feature selection. The subsequent focus on correlation analysis, complemented by the implementation of linear regression and a Decision Tree Model, unravel relationships between variables. Concluding with a comparative analysis, this framework guides a comprehensive understanding of the relationships by evaluating the model’s strengths and limitations in analyzing relationships among variables.
 
 In the pursuit of the main objective of training and evaluating the gathered data, a comprehensive conceptual framework is outlined below:
@@ -104,11 +107,11 @@ In the pursuit of the main objective of training and evaluating the gathered dat
     - Compare the performance of the linear regression model and the Decision Tree Model.
     - Evaluate their strengths and limitations in analyzing relationships among variables.
   
-## V. Data and Results
+## VI. Data and Results
 
-## VI. Conclusion
+## VII. Conclusion
 
-## VII.	Program Codes / Google colab / Jupyter notebook or spyder IDE
+## VIII.	Program Codes / Google colab / Jupyter notebook or spyder IDE
 You can find the code for this project in the [Code](./Code) folder.
 
 or you can directly access/view the notebook (.ipynb file) with this link: *[Jupyter Notebook](Code/CAPSTONE_ECEDATA_Group3.ipynb)*
