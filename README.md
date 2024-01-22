@@ -3,6 +3,7 @@
 **A Course Requirement for the Subject Data Science and Artificial Intelligence**
 
 Submitted by: 
+*Group 3*
 - Arellano, Aldrich E.
 - Coronel, Ericka May B.
 - Fadol, Noelle Joshua N.
