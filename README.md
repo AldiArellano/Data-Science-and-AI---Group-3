@@ -72,7 +72,7 @@ According to the most recent official data released by the Philippine Statistics
 
 It is worth noting that the poverty scenario may be even more severe, given that the PSA conducted its survey in 2021, and some experts consider its poverty threshold unrealistic. As per the Philippine government's perspective, an individual from a family of five members is deemed to require only $1.41 per day, when converted into U.S. dollars, to sustain themselves and fulfill their daily nutritional needs [[20]](https://thediplomat.com/2022/09/making-sense-of-the-philippines-latest-poverty-statistics/). To have a better grasp of the poverty in the country, presented in Figure 2 is the trend of the poverty rate in the Philippines compared to the world poverty rate[[21]](https://www.macrotrends.net/countries/PHL/philippines/poverty-rate#:~:text=Philippines%20poverty%20rate%20for%202021,a%201.2%25%20decline%20from%202009) [[22]](https://www.macrotrends.net/countries/WLD/world/poverty-rate#:~:text=World%20poverty%20rate%20for%202019,a%200.9%25%20decline%20from%202015).
 <p align="center">
-  <img src="Images/RRL2122.png">
+  <img src="Images/Fig2.png">
   <br>
   <em>Figure 2. Philippines vs Global Poverty Rate (2000-2021) [21][22]</em><br>
 </p>
