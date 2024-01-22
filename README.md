@@ -94,10 +94,11 @@ In the pursuit of the main objective of training and evaluating the gathered dat
   
 ## V. Data and Results
 
+## VI. Conclusion
 
-## VI.	Program Codes / Google colab / Jupyter notebook or spyder IDE
+## VII.	Program Codes / Google colab / Jupyter notebook or spyder IDE
 You can find the code for this project in the [Code](./Code) folder.
 
-or you can directly access the notebook (.ipynb file) with this link: *[Jupyter Notebook](Code/CAPSTONE_ECEDATA_Group3.ipynb)*
+or you can directly access/view the notebook (.ipynb file) with this link: *[Jupyter Notebook](Code/CAPSTONE_ECEDATA_Group3.ipynb)*
 
 
