@@ -1,4 +1,16 @@
-# Data-Science-and-AI---Group-3
+# ANALYZING THE RELATIONSHIP OF FEW POVERTY INDICATORS IN THE PHILIPPINES BY REGION
+
+**A Course Requirement for the Subject Data Science and Artificial Intelligence**
+
+Submitted by: 
+- Arellano, Aldrich E.
+- Coronel, Ericka May B.
+- Fadol, Noelle Joshua N.
+- Mendoza, Joshua Jericho L.
+
+Submitted to: Ms. Labastilla, Aisa M.
+
+Date: January 23, 2024
 
 ## I.	Introduction / Problem Statement
 In the intricate web of the Philippine socio-economic landscape, the persistent challenge of poverty poses an obstacle, hindering the nation's path to comprehensive development. Despite commendable economic growth, poverty endures, characterized by low income, constrained employment opportunities, and limited access to essential services. 
