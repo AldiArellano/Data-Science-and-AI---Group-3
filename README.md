@@ -16,7 +16,7 @@ Income disparities in the rural economy serve as a testament to the pervasive ho
 ## II.	Gathered Data / Dataset 
 The dataset employed in this project is a comprehensive compilation of economic and agricultural indicators, providing a detailed snapshot of the socio-economic insight across various regions in the Philippines. These indicators encompass a wide array of quantitative measures that capture the dimensions of economic and agricultural activities, shedding light on the characteristics and disparities that exist among different geographic areas within the country.
 
-Titled *"A Few Poverty Indicators for the Philippines by Region"*, the dataset has been sourced from Kaggle.com, with the last recorded update dating back to the year 2018. Kaggle is a renowned platform that hosts datasets and facilitates collaborative data science projects. This particular dataset serves as a valuable resource for understanding poverty dynamics in the Philippines, providing insights into various indicators across different regions of the country. The dataset is shown on Figure 1. 
+Titled "A Few Poverty Indicators for the Philippines by Region", the dataset has been sourced from Kaggle.com, with the last recorded update dating back to the year 2018. Kaggle is a renowned platform that hosts datasets and facilitates collaborative data science projects. This particular dataset serves as a valuable resource for understanding poverty dynamics in the Philippines, providing insights into various indicators across different regions of the country. The dataset is shown on Figure 1. 
 
 <p align="center">
   <img src="Images/Dataset.png" alt="Figure 1">
