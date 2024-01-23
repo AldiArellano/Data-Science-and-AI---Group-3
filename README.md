@@ -209,6 +209,98 @@ In the pursuit of the main objective of training and evaluating the gathered dat
     - Evaluate their strengths and limitations in analyzing relationships among variables.
   
 ## VI. Data and Results
+In this section, two distinct models, Linear Regression and a Classification Model (Decision Tree), were employed for the examination of selected variables. The first focus involves agricultural wage rates and farm income, aiming to uncover the correlations and dynamics between the compensation of agricultural workers and the overall income of farm households. The second analysis explores the interrelations between non-farm income and rural income, providing insights into the contribution of non-farm income to the broader rural income landscape. The final pair of variables under analysis consists of total employment and total income, with the objective of revealing patterns in the relationship between overall employment levels and the average annual income of farm households. These analyses, conducted through correlation assessments, contribute to the understanding of economic dynamics in agricultural and rural contexts, scaling light on the relationships between various facets of income and employment.
+
+**Linear Regression Results for Variables 1 and 2**
+
+In this analysis, the researchers used a Linear Regression model to explore the connection between two key variables: agricultural wage rates ('agr_wage_farm_workers_allgender_2015') and the average annual income of farm households ('avg_annual_farm_incm_farm_households_02_03').These variables were chosen to understand how the pay received by farm workers relates to the overall income of farm households. The code for this part is shown in Figure 5.
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 5. Code for the analysis and evaluation of variables 1 and 2 using Linear Regression Model</em>
+</p>
+
+The analysis began by carefully defining these variables and splitting the data into two parts: 80% for training the model and 20% for testing its predictions on new data. This division ensured a factual evaluation of how well the model could work with data it hadn't seen before. Moreover, the researchers used the Linear Regression tool from the scikit-learn library to create and train our model. After training, the model made predictions on the test set, creating anticipated values denoted as 'y_pred.' To assess the performance of the model, proponents used a metric called mean squared error (MSE), which measures the average of the squared differences between predicted and actual values in the testing set. The resulting MSE, specifically Mean Squared Error = 116395204.90514195, gives us a numerical understanding of how well the model predicts.
+
+Interpreting the MSE, its value indicates how much the prediction of the model differs from the actual values of average annual income for farm households based on agricultural wage rates. The relatively high MSE suggests a notable level of difference, indicating a significant predictive error. This implies that the current linear regression model may not completely capture the complex relationship between agricultural wage rates and the overall income of farm households. Moreover, the insights visualized from Figure 6, a scatter plot depicting the relationship between agricultural wage rates and the average annual income of farm households, align with and reinforce the findings indicated by the Mean Squared Error (MSE). The scatter plot visually represents the actual data points, each dot reflecting the real values of agricultural wage rates and corresponding average annual income. Furthermore, the linear line, derived from the Linear Regression model, illustrates predicted relationships. The absence of intersections between the line and more than one actual data point underscores challenges in accurately capturing data variability. The scattered arrangement of data points emphasizes the model's limitations, visually echoing the predictive error highlighted by the MSE. This visual representation serves as an additional layer of evidence, affirming the need for model refinement to better comprehend the relationship between agricultural wage rates and farm household income.
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 6. Linear Regression Model graph for variables 1 and 2</em>
+</p>
+
+Considering these results, it prompts point of ways to improve the model. Potential avenues include exploring additional factors or conducting a thorough analysis of relevant variables to enhance the model's ability to predict this specific correlation. Additionally, examining outliers, adjusting features, or exploring alternative modeling approaches could be explored to gain a more nuanced understanding of how agricultural wage rates relate to farm household income.
+
+**Linear Regression Results for Variables 3 and 4**
+
+For the evaluation of the third and fourth variables, the same linear regression methodology was applied, following the pattern set in the previous analysis for the first two variables. The code, as illustrated in Figure 7, involved the definition of variables ('avg_annual_non_farm_incm_farm_households_02_03' and 'avg_rural_income_2000'), the implementation of linear regression to these selected features, and the splitting of the dataset into training and testing sets (80% for training, 20% for testing) using the scikit-learn library. The linear regression model, instantiated through the LinearRegression class, underwent training with the designated training dataset. The code is presented on Figure 7.
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 7. Code for the analysis and evaluation of variables 3 and 4 using Linear Regression Model</em>
+</p>
+
+Upon successful training, predictions were generated for the testing set ('y_pred'). The model's performance was then assessed using the mean squared error (MSE), a metric quantifying the average squared differences between predicted and actual values within the testing set. The resulting MSE for this analysis was 114552777.79321332.
+
+Examining the graph generated for these variables, as shown in Figure 8, presents a distinction from the graphs observed in the analysis of the first two variables. In this case, the actual data points appear to be closely packed and aligned with the linear regression line. This alignment suggests a stronger fit of the model to the data, with the actual values demonstrating a closer adherence to the predicted values. The relatively lower MSE value further supports the visual observation, indicating a smaller average squared difference between predicted and actual values compared to the analysis of the first two variables. Moreover, the MSE value of 114552777.79321332 signifies the relatively better performance of the linear regression model in capturing the relationship between average non-farm income and rural income. The results suggest that the model, in this instance, provides a more accurate representation of the correlation between these specific variables, as evidenced by both the numerical MSE output and the observed graphical alignment between predicted and actual values.
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 8. Linear Regression Model graph for variables 3 and 4</em>
+</p>
+
+**Linear Regression Results for Variables 5 and 6**
+
+For the assessment of the fifth and sixth variables, the identical linear regression methodology was applied, consistent with the approach utilized in the previous analyses. The code, as shown in Figure 9, involved the definition of variables ('total_emply_2016' and ‘avg_annual_total_incm_farm_02_03'), the implementation of linear regression, and the dataset's division into training and testing sets. The linear regression model, instantiated using the `LinearRegression` class from scikit-learn, was trained on the designated dataset. Following training, predictions were generated for the testing set, and the performance of the model was gauged using the mean squared error (MSE). The resulting MSE for this analysis was 991171396.6819845. Moreover, as shown in Figure 10, the graph depicting these variables presented a distinctive pattern, with the actual data points scattered across the plot plane and not conforming closely to the linear regression model line.
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 9. Code for the analysis and evaluation of variables 5 and 6 using Linear Regression Model</em>
+</p>
+
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 10. Linear Regression Model graph for variables 5 and 6</em>
+</p>
+
+The visual representation underscores challenges in accurately capturing the relationship between total employment levels and total income using a linear model. The high MSE value further substantiates the graphical observation, signifying a substantial average squared difference between predicted and actual values. This suggests that, in the context of these variables, the linear regression model may not be the most suitable approach for capturing the nuanced dynamics governing the correlation between total employment and total income. Further exploratory analyses or alternative modeling strategies may be warranted to better understand and represent this specific relationship.
+
+**Classification Model (Decision Tree Model) Results for Variables 1 and 2**
+
+The Decision Tree Classification model was applied to variables 'agr_wage_farm_workers_allgender_2015' and 'avg_annual_farm_incm_farm_households_02_03.' The code, as shown in Figure 11, involved splitting the dataset into training and testing sets, creating, and training the Decision Tree model, and subsequently evaluating its performance using accuracy, precision, recall, and F1 score. The results showed an accuracy of 0.33, precision of 0.0, recall of 0.0, and an F1 score of 0.0.
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 11. Code for the analysis and evaluation of variables 1 and 2 using Decision Tree Model (Classification Model)</em>
+</p>
+
+These metrics suggest that the model struggled to correctly classify instances, yielding a low accuracy and a lack of true positive predictions. Precision, recall, and F1 score being zero indicate an inability to effectively identify instances belonging to the positive class (above-median income in this case). This suboptimal performance could be attributed to the inherent complexity of the relationship between agricultural wage rates and average annual farm income, which may not be effectively captured by a Decision Tree model with a single feature.
+
+The Decision Tree visualization which is illustrated in Figure 12 provides further insights into the model's decision-making process. The tree splits based on the 'agr_wage_farm_workers_allgender_2015' feature, suggesting that the wage rates alone might not be sufficient to distinguish between above and below-median income categories. The gini values and sample sizes in each rectangle indicate the impurity and the number of instances at each node, respectively. The split conditions, such as 'agr_wage_farm_workers_allgender_2015<=168.335,' highlight the thresholds used to partition the data.
+<p align="center">
+  <img src="Images/DescriptiveStats1.png">
+  <br>
+  <em>Figure 12. Decision Tree Model Visual Representation for variables 5 and 6</em>
+</p>
+
+With the provided results, the Decision Tree model struggled to effectively categorize farm households into above or below-median income groups based on agricultural wage rates alone. The limitations of the model's performance are evident in the evaluation metrics and the decision tree structure, emphasizing the need for more sophisticated models or additional features to better capture the complexity of the relationship between these variables.
+
+**Classification Model (Decision Tree Model) Results for Variables 3 and 4**
+
+The Decision Tree Classification model applied to variables 'avg_annual_non_farm_incm_farm_households_02_03' and 'avg_rural_income_2000' yielded highly favorable results, as indicated by the accuracy, precision, recall, and F1 score, all scoring perfect values of 1.0. This implies that the model achieved flawless predictions on the test set, accurately classifying instances into above and below-median income categories. The high-performance metrics suggest that the decision tree effectively discerned patterns in the data, showcasing its robust capability to classify farm households based on non-farm income and rural income.
+
+Moreover, the Decision Tree model, trained on data about non-farm income and rural income, showed excellent performance. The model essentially learned specific income levels, particularly within non-farm income, that are indicative of whether a farm household falls into the 'above median' or 'below median' category in terms of rural income. The first split in the tree, focusing on 'avg_annual_non_farm_incm_farm_households_02_03' below or above 35304.5, set the initial guideline. If a farm household's non-farm income is below this threshold, it tends to be classified as 'above median' in rural income, and vice versa. The subsequent splits in the tree further refined these classifications based on additional considerations. Nodes in the tree with gini=0.0 and perfectly separated samples signify situations where non-farm income alone is quite decisive in determining whether a household belongs to the 'above median' category. Additional splits, especially based on 'avg_annual_non_farm_households_02_02,' further fine-tune these classifications.
+
+In essence, the Decision Tree reveals that specific income levels within non-farm income play a critical role in categorizing farm households into different rural income groups. The thresholds identified by the tree shed light on the relationship between non-farm income and rural income, making the model a valuable tool for understanding the contribution of non-farm income to the overall income dynamics of farm households.
+
+**Classification Model (Decision Tree Model) Results for Variables 5 and 6**
+
+The Decision Tree Classification model, trained on variables 'total_emply_2016' and 'avg_annual_total_incm_farm_households_02_03,' produced metrics indicating challenges in accurately predicting farm households' income categories. The accuracy, precision, recall, and F1 score all registered at 0.33, suggesting a difficulty in distinguishing between 'above median' and 'below median' income groups. These low metrics indicate that the model struggled to effectively utilize the features 'total_emply_2016' and 'avg_annual_total_incm_farm_households_02_03' to make accurate predictions.
+
+On the other hand, as shown in Figure__, the Decision Tree visualization provides further insights into the model's decision-making process. The top rectangle, characterized by the split condition 'total_emply_2016 <= 1665.0,' suggests that the chosen income threshold based on total employment levels alone does not effectively separate farm households into 'above median' and 'below median' income categories. The subsequent splits create complex branching patterns, indicating challenges in finding a straightforward relationship between total employment and average annual total income.
+
+In interpreting these results, the low metrics and the intricate structure of the Decision Tree imply that the selected features may not exhibit a clear-cut correlation with income categories. The tree struggled to discern patterns or thresholds within 'total_emply_2016' and 'avg_annual_total_incm_farm_households_02_03' that reliably differentiate between higher and lower income groups. The Decision Tree's limitations in this case emphasize the complexity of understanding the relationship between total employment levels and average annual total income for farm households. It suggests that factors beyond total employment might play a more substantial role in determining income categories. Further exploration or the inclusion of additional influential features may be necessary to enhance the model's ability to capture the nuanced dynamics of income determination in this context.
 
 ## VII. Conclusion
 
