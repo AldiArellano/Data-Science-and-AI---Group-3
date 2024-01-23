@@ -343,7 +343,7 @@ In conclusion, this research successfully achieved its objectives by employing d
 In light of these findings, it is recommended that future analyses explore enhancements to the linear regression model to better capture the complexities inherent in the relationships between agricultural variables and income dynamics. Additionally, further investigations into the decision tree structure and feature importance could provide deeper insights into the key indicators influencing poverty. Overall, this study lays the groundwork for informed policymaking and targeted interventions to address poverty dynamics in the Philippines.
 
 ## VIII.	Program Codes / Google colab / Jupyter notebook or spyder IDE
-You can find the code for this project in the [Jupyter Notebook](/.Jupyter_Notebook) folder.
+You can find the code for this project in the [Jupyter Notebook](/Jupyter_Notebook) folder.
 
 or you can directly access/view the notebook (.ipynb file) with this link: *[CAPSTONE_ECEDATA_Group3-Notebook](Jupyter_Notebook/CAPSTONE_ECEDATA_Group3-Notebook.ipynb)*
 
