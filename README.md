@@ -322,13 +322,23 @@ On the other hand, as shown in Figure 16, the Decision Tree visualization provid
 
 In interpreting these results, the low metrics and the intricate structure of the Decision Tree imply that the selected features may not exhibit a clear-cut correlation with income categories. The tree struggled to discern patterns or thresholds within 'total_emply_2016' and 'avg_annual_total_incm_farm_households_02_03' that reliably differentiate between higher and lower income groups. The Decision Tree's limitations in this case emphasize the complexity of understanding the relationship between total employment levels and average annual total income for farm households. It suggests that factors beyond total employment might play a more substantial role in determining income categories. Further exploration or the inclusion of additional influential features may be necessary to enhance the model's ability to capture the nuanced dynamics of income determination in this context.
 
+**Overall Comparison**
+
+In the context of identifying indicators of poverty, Variables 3 and 4, namely 'avg_annual_non_farm_incm_farm_households_02_03' and 'avg_rural_income_2000,' emerged as central elements in both the Linear Regression and Decision Tree Classification models. In the Linear Regression model, these variables demonstrated a relatively low Mean Squared Error (MSE), indicating a better fit for predicting rural income based on non-farm income. This implies that a linear relationship exists between non-farm income and rural income, and the linear regression model successfully captured and utilized this relationship for prediction.
+
+On the other hand, in the Decision Tree Classification model, these same variables played a crucial role in achieving perfect accuracy, precision, recall, and F1 score. The decision tree structure revealed specific income thresholds within 'avg_annual_non_farm_incm_farm_households_02_03' that decisively categorized farm households into above and below-median income groups. This transparency in decision-making allowed for a clear identification of indicators of poverty based on non-farm income.
+
+In comparing the two models, the Decision Tree Classification model, in this specific instance, showcased superior performance by achieving perfect classification metrics. The interpretability of the decision tree further emphasized the specific income thresholds within 'avg_annual_non_farm_incm_farm_households_02_03' that serve as strong indicators of poverty. While the Linear Regression model provided valuable insights into the linear relationship between non-farm income and rural income, the Decision Tree Classification model demonstrated unparalleled accuracy and precision in pinpointing indicators of poverty within these variables.
+
+In summary, Variables 3 and 4, when employed in both the Linear Regression and Decision Tree Classification models, revealed their significance in understanding and predicting poverty. The Decision Tree Classification model, with its explicit decision rules and remarkable classification performance, emerged as the most effective model for identifying indicators of poverty based on these specific variables.
+
 ## VII. Conclusion
 
 
 ## VIII.	Program Codes / Google colab / Jupyter notebook or spyder IDE
-You can find the code for this project in the [Jupyter Notebook](/.Jupyter) folder.
+You can find the code for this project in the [Jupyter Notebook](/.Jupyter_Notebook) folder.
 
-or you can directly access/view the notebook (.ipynb file) with this link: *[Jupyter Notebook](Code/CAPSTONE_ECEDATA_Group3.ipynb)*
+or you can directly access/view the notebook (.ipynb file) with this link: *[File](Jupyter_Notebook/CAPSTONE_ECEDATA_Group3-Notebook.ipynb)*
 
 
 
