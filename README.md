@@ -345,7 +345,7 @@ In light of these findings, it is recommended that future analyses explore enhan
 ## VIII.	Program Codes / Google colab / Jupyter notebook or spyder IDE
 You can find the code for this project in the [Jupyter Notebook](/.Jupyter_Notebook) folder.
 
-or you can directly access/view the notebook (.ipynb file) with this link: *[File](Jupyter_Notebook/CAPSTONE_ECEDATA_Group3-Notebook.ipynb)*
+or you can directly access/view the notebook (.ipynb file) with this link: *[CAPSTONE_ECEDATA_Group3-Notebook](Jupyter_Notebook/CAPSTONE_ECEDATA_Group3-Notebook.ipynb)*
 
 
 
